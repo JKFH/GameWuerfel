@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+   <project name="Game Würfeln" default="info" basedir=".">
+   <target name="info">
+    <echo>Ant wurde ausgeführt</echo>
+   </target>
+   	
+    <!-- Erstellen der Ordner-Struktur -->
+    <target name="prepare" description="Vorbereitungen ausführen">
+        <mkdir dir="build" />
+        <mkdir dir="src" />
+    	<echo>Ordner wurden ausgeführt</echo>
+    </target>
+   	
+    <!-- Sourcen kompilieren mit Hilfe des Java Compilers -->
+    <target name="compile" depends="prepare" description="Kompiliert die Java-Sourcen"> 
+        <javac srcdir="src" destdir="build" />
+    	<echo>Komiliren wurden ausgeführt</echo>
+    </target>
+</project>

@@ -1,0 +1,47 @@
+src/gameWuerfel/Wuerfel.java:1:	Package name contains upper case characters
+src/gameWuerfel/Wuerfel.java:5:	headerCommentRequirement Required
+src/gameWuerfel/Wuerfel.java:6:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/gameWuerfel/Wuerfel.java:6:	Parameter 'args' is not assigned and could be declared final
+src/gameWuerfel/Wuerfel.java:6:	publicMethodCommentRequirement Required
+src/gameWuerfel/Wuerfel.java:10:	publicMethodCommentRequirement Required
+src/gameWuerfel/Wuerfel.java:11:	Found 'DD'-anomaly for variable 'sysRanNum' (lines '11'-'23').
+src/gameWuerfel/Wuerfel.java:12:	Found 'DD'-anomaly for variable 'userTipp' (lines '12'-'26').
+src/gameWuerfel/Wuerfel.java:13:	Found 'DD'-anomaly for variable 'actRound' (lines '13'-'22').
+src/gameWuerfel/Wuerfel.java:14:	Avoid using final local variables, turn them into fields
+src/gameWuerfel/Wuerfel.java:15:	Found 'DD'-anomaly for variable 'sysScore' (lines '15'-'30').
+src/gameWuerfel/Wuerfel.java:16:	Found 'DD'-anomaly for variable 'userScore' (lines '16'-'36').
+src/gameWuerfel/Wuerfel.java:18:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:19:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:20:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:24:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:26:	Avoid instantiating new objects inside loops
+src/gameWuerfel/Wuerfel.java:27:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:30:	Found 'DD'-anomaly for variable 'sysScore' (lines '30'-'30').
+src/gameWuerfel/Wuerfel.java:31:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:33:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:35:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:36:	Found 'DD'-anomaly for variable 'userScore' (lines '36'-'36').
+src/gameWuerfel/Wuerfel.java:39:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:43:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:45:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:47:	System.out.println is used
+src/gameWuerfel/Wuerfel.java:49:	System.out.println is used
+src/gameWuerfel/WuerfelTest.java:1:	Package name contains upper case characters
+src/gameWuerfel/WuerfelTest.java:7:	Each class should declare at least one constructor
+src/gameWuerfel/WuerfelTest.java:7:	This class has too many methods, consider refactoring it.
+src/gameWuerfel/WuerfelTest.java:7:	headerCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:10:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:11:	The String literal "Not yet implemented" appears 14 times in this file; the first occurrence is on line 11
+src/gameWuerfel/WuerfelTest.java:15:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:20:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:25:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:30:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:35:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:40:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:45:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:50:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:55:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:60:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:65:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:70:	publicMethodCommentRequirement Required
+src/gameWuerfel/WuerfelTest.java:75:	publicMethodCommentRequirement Required

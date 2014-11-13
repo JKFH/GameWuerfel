@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+extraProperties=sonar.language\=java
+lastAnalysisDate=1414499859992
+projectKey=org.codehaus.sonar\:example-java-maven
+serverUrl=http\://localhost\:9000
+version=2
