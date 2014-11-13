@@ -47,7 +47,7 @@ public class Wuerfel {     //Klassen-Definition
         } else if (sysScore == userScore) {
             System.out.println("Gleichstand. Keiner von uns beiden hat das Spiel gewonnen.");
         } else if (sysScore < userScore) {
-            System.out.println("Du hast das Spiel gewonnen. ");
+            System.out.println("Du hast das Spiel gewonnen.");
         }
     }
 }
